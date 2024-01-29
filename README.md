@@ -1,10 +1,11 @@
 # CSV tag data for a1111-sd-webui-tagcomplete based on animagine-xl-3.0 dataset
 
-3 files that help to input tags on [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) for generating image via [animagine-xl-3.0](https://huggingface.co/cagliostrolab/animagine-xl-3.0)
+4 files that help to input tags on [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) for generating image via [animagine-xl-3.0](https://huggingface.co/cagliostrolab/animagine-xl-3.0)
 
 - [animagine-xl-3.0.csv](outputs/animagine-xl-3.0.csv) : tag data file for [a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 - [character_plus.txt](outputs/character_plus.txt) : character wildcards
 - [animagine_xl_3.0_artists.txt](outputs/animagine_xl_3.0_artists.txt) : artist wildcards
+- [danbooru2023.csv](outputs/danbooru2023.csv) : tag data file using [danbooru2023 dataset](https://huggingface.co/datasets/nyanko7/danbooru2023)
 
 You can modify or create new using ipynb files.
 

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Basic-Prompt animagine-xl",
+        "terms": "BestQuality, prompt, animagine-xl",
+        "content": "masterpiece, best quality",
+        "color": 4
+    },
+    {
+        "name": "Negative-Prompt animagine-xl",
+        "terms": "WorstQuality, negative, animagine-xl",
+        "content": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+        "color": 1
+    },
+
+    {
+        "name": "Basic-Prompt Kohaku-XL",
+        "terms": "BestQuality, prompt, Kohaku-XL",
+        "content": "masterpiece, best quality, absurdres",
+        "color": 4
+    },
+    {
+        "name": "Negative-Prompt Kohaku-XL",
+        "terms": "WorstQuality, negative, Kohaku-XL",
+        "content": "low quality, worst quality, normal quality, text, signature, jpeg artifacts, bad anatomy",
+        "color": 1
+    },
+
+    {
+        "name": "Negative-Prompt heartOfAppleXL",
+        "terms": "WorstQuality, negative, heartOfAppleXL",
+        "content": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, quality bad, hands bad, eyes bad, face bad,normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+        "color": 1
+    }
+]

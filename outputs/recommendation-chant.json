@@ -5,10 +5,46 @@
         "content": "masterpiece, best quality",
         "color": 4
     },
+	{
+        "name": "Basic-Prompt animagine-xl-3.1",
+        "terms": "BestQuality, prompt, animagine-xl-3.1",
+        "content": "masterpiece, best quality, very aesthetic, absurdres",
+        "color": 4
+    },
+	{
+        "name": "Basic-Prompt animagine-xl-3.1 light",
+        "terms": "BestQuality, prompt, animagine-xl-3.1",
+        "content": "(masterpiece), best quality, very aesthetic, perfect face",
+        "color": 4
+    },
+	{
+        "name": "Basic-Prompt animagine-xl-3.1 heavy",
+        "terms": "BestQuality, prompt, animagine-xl-3.1",
+        "content": "(masterpiece), (best quality), (ultra-detailed), very aesthetic, illustration, disheveled hair, perfect composition, moist skin, intricate details",
+        "color": 4
+    },
     {
         "name": "Negative-Prompt animagine-xl",
         "terms": "WorstQuality, negative, animagine-xl",
         "content": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+        "color": 1
+    },
+    {
+        "name": "Negative-Prompt animagine-xl-3.1",
+        "terms": "WorstQuality, negative, animagine-xl-3.1",
+        "content": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, (abstract:0.9)",
+        "color": 1
+    },
+    {
+        "name": "Negative-Prompt animagine-xl-3.1 light",
+        "terms": "WorstQuality, negative, animagine-xl-3.1",
+        "content": "(low quality, worst quality:1.2), very displeasing, 3d, watermark, signature, ugly, poorly drawn",
+        "color": 1
+    },
+    {
+        "name": "Negative-Prompt animagine-xl-3.1 heavy",
+        "terms": "WorstQuality, negative, animagine-xl-3.1",
+        "content": "longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, very displeasing",
         "color": 1
     },
 
@@ -29,6 +65,12 @@
         "name": "Negative-Prompt heartOfAppleXL",
         "terms": "WorstQuality, negative, heartOfAppleXL",
         "content": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, quality bad, hands bad, eyes bad, face bad,normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+        "color": 1
+    },
+    {
+        "name": "Negative-Prompt swampmachine",
+        "terms": "WorstQuality, negative, swampmachine",
+        "content": "nsfw, lowres, (worst quality, low quality:1.4), normal quality, bad anatomy, missing fingers, extra digit, fewer digits, bad hands, text, error, jpeg artifacts",
         "color": 1
     }
 ]
